@@ -16,6 +16,17 @@
     ]
   },
   {
+    "id": "imagetext",
+    "fields": [
+      
+      {
+        "component": "imagetext",
+        "name": "imagetext",
+        "label": "Text"
+      }
+    ]
+  },
+  {
     "id": "title",
     "fields": [
       {
