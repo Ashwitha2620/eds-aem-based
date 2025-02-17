@@ -18,14 +18,30 @@
   {
     "id": "imagetext",
     "fields": [
-      
       {
-        "component": "imagetext",
-        "name": "imagetext",
-        "label": "Text"
+        "component": "image",
+        "name": "image",
+        "label": "Image",
+        "value": "",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "altText",
+        "label": "Alt Text",
+        "value": "",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "label": "Text Content",
+        "value": "",
+        "valueType": "string"
       }
     ]
-  },
+  }
+  ,
   {
     "id": "title",
     "fields": [

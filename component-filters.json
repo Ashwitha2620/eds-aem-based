@@ -15,10 +15,11 @@
       "hero",
       "cards",
       "columns",
-      "fragment",
+      "quote",
       "imagetext"
     ]
-  },
+  }
+  ,
   {
     "id": "cards",
     "components": [
